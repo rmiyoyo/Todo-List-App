@@ -70,7 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- You can find the website [here](https://rmiyoyo.github.io/To-Do-List/dist/)
+- You can find the website [here](https://rmiyoyo.github.io/Todo-List-App/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
