@@ -64,11 +64,11 @@ i:hover {
   cursor: pointer;
 }
 
-i.trash {
+i.bin {
   right: 8%;
 }
 
-i.edit {
+i.modify {
   right: 13%;
 }
 
@@ -160,7 +160,7 @@ i.edit {
 }
 
 .delete-finished-activities:hover {
+  color: #ff8c00;
   cursor: url('../icons/pntr.png'), move;
   text-decoration: underline;
-  color: #ff8c00;
 }
